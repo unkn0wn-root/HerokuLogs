@@ -70,7 +70,7 @@ def execute(*commands):
         if process.returncode != 0:
             print(process.returncode, errors)
 
-        if process.returncode == 0:
+        else:
             print(f" Process {process.pid} finished with exit code {process.returncode}")
 
 
