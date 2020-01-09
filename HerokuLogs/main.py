@@ -1,4 +1,6 @@
-###
+# Run multiple Heroku logs with diffrent arguments.
+# This open multiple subprocesses(terminals) and runs it in parallel.
+
 import sys
 import os.path
 import platform
