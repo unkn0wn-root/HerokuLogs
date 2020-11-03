@@ -1,2 +1,2 @@
 # HerokuLogs
-Monitor multiple Heroku logs
+Quick and dirty monitor multiple Heroku logs
